@@ -76,7 +76,7 @@ def download_file(file_id, filename):
 
 # ✅ YOUR FILE IDs
 movies_id = "1cEyWuOXYPts8CdFXJ8pdbG353gf_Nc72"
-similarity_id = "1kQj8zXl_ui6GevX0l4b4WN1lsq7mMG7F"
+similarity_id = "1JJOQ7MC9-GjePx6n45sKTqqU8a3gF5Zr"
 
 download_file(movies_id, "movies.pkl")
 download_file(similarity_id, "similarity.pkl")
